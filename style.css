@@ -1,0 +1,23 @@
+body{
+
+color : white;
+background-color: aquamarine;
+
+}
+.heading{
+
+width:80%;
+font-size: 22px;
+
+}
+.name_of_object, #result_object, #result_accuracy{
+
+color:yellow;
+
+}
+#camera, #result{
+border : 2px dashed black;
+width: 350px;
+height: 300px;
+}
+
